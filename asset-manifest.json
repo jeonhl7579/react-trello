@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-trello/static/js/main.27c0a0e9.js",
+    "static/media/exit.png": "/react-trello/static/media/exit.bb685b317dad5341aef9.png",
+    "index.html": "/react-trello/index.html",
+    "main.27c0a0e9.js.map": "/react-trello/static/js/main.27c0a0e9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27c0a0e9.js"
+  ]
+}
